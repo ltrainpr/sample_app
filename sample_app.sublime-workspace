@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"v"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"chec",
+				"check_card"
+			],
+			[
+				"che",
+				"check_card"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"proje",
+				"Project: Edit"
+			],
+			[
+				"proj",
+				"Project: Edit"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"f",
+				"Fetch: Manage"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lionelramos/rails_projects/first_app/README.md",
+		"/Users/lionelramos/rails_projects/first_app/Gemfile",
+		"/Users/lionelramos/rails_projects/first_app/.gitignore",
+		"/Users/lionelramos/.gemrc",
+		"/Users/lionelramos/Documents/practice.rb",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/lionelramos/Documents/Index.html",
+		"/Users/lionelramos/css/module.js",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/Users/lionelramos/Library/Application",
+		"/Users/lionelramos/Support/Sublime",
+		"/Users/lionelramos/Text",
+		"/Users/lionelramos/2/Packages/Gist/Gist.sublime-settings",
+		"/Users/lionelramos/Documents/Projects/Sample/sample.sublime-project",
+		"/Users/lionelramos/Documents/Projects/sample/index.html",
+		"/Users/lionelramos/Documents/Projects/sample/project.sublime-project",
+		"/Users/lionelramos/Documents/Projects/sample/project.sublime-workspace",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default.sublime-keymap",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/readme.md",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/README.md",
+		"/Users/lionelramos/Documents/Projects/sample/jquery.js",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/lionelramos/Documents/style.css",
+		"/tmp/subl stdin NMMtri.txt",
+		"/tmp/subl stdin EY2ljJ.txt",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/User/NightCycle.sublime-settings",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/NightCycle/NightCycle.sublime-settings",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/lionelramos/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/Users/lionelramos/projects/makemeshakeit/app/views/main/grid.html.erb",
+		"/Users/lionelramos/projects/makemeshakeit/app/assets/stylesheets/application.css",
+		"/Users/lionelramos/Dropbox/Hackathons/MakeMeShake.it/Home/gridly.html",
+		"/Users/lionelramos/projects/makemeshakeit/app/assets/javascripts/application.js",
+		"/Users/lionelramos/projects/makemeshakeit/app/views/main/video.html.erb",
+		"/Users/lionelramos/Dropbox/Hackathons/MakeMeShake.it/Design Work/Arrows.ai",
+		"/Users/lionelramos/Dropbox/Hackathons/MakeMeShake.it/Home/grid2.html",
+		"/Users/lionelramos/Dropbox/Hackathons/MakeMeShake.it/verb_pop/main.js",
+		"/Users/lionelramos/Dropbox/Hackathons/MakeMeShake.it/verb_pop/Putting_it_together_Lionel.html",
+		"/Users/lionelramos/projects/makemeshakeit/app/views/main/index.html.erb",
+		"/Users/lionelramos/Dropbox/Hackathons/MakeMeShake.it/Verb Pop-up/main.js",
+		"/Users/lionelramos/Dropbox/Hackathons/MakeMeShake.it/Verb Pop-up/Putting_it_together_Lionel.html",
+		"/Users/lionelramos/Dropbox/Hackathons/MakeMeShake.it/Verb Pop-up/sliding_face.html",
+		"/Users/lionelramos/Dropbox/Hackathons/MakeMeShake.it/Verb Pop-up/flashing_text_timed_Lionel.html",
+		"/Users/lionelramos/Documents/Code Solutions/CC_validation.rb",
+		"/Users/lionelramos/Documents/Code Solutions/Separate numbers with commas.rb",
+		"/Users/lionelramos/Documents/Code Solutions/RPN Calculator.rb",
+		"/Users/lionelramos/temp/newfile.txt",
+		"/Users/lionelramos/Desktop/ex12.txt",
+		"/Users/lionelramos/temp/ex13.txt",
+		"/Users/lionelramos/temp/ex12.txt",
+		"/Users/lionelramos/neat.txt",
+		"/Users/lionelramos/Documents/Code Solutions/most_frequent_values_in_array.rb",
+		"/Users/lionelramos/Library/Mail/V2/MailData/Signatures/3D5204A6-48FB-4693-8BD9-BFDBC48E97AB.mailsignature",
+		"/Users/lionelramos/Library/Mail/V2/MailData/Signatures/8D24FDE1-725B-4F3A-AA24-89C67A4AE96D.mailsignature"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"MakeMeShake.it/Design Work/Arrows.ai"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true
+}
