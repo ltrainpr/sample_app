@@ -2,7 +2,13 @@
 	"folders":
 	[
 		{
-			"path": "/Users/lionelramos/rails_projects/sample_app"
+			"path": "/Users/lionelramos/rails_projects/sample_app/app"
+		},
+		{	
+			"path": "/Users/lionelramos/rails_projects/sample_app/config"
+		},			
+		{
+			"path": "/Users/lionelramos/rails_projects/sample_app/spec"
 		}
 	]
 }
